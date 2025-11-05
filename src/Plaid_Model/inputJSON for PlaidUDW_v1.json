@@ -1,0 +1,4691 @@
+{
+    "Model1Score": "636",
+    "NDBand": "636",
+    "Sys_reqAmt": "1000",
+    "Sys_Time": "1/1/2025 3:28:28 AM",
+    "Sys_payfreq": "B",
+    "NDB": {
+        "accountnumber": 32519,
+        "search_query_id": "173572010725431638378746",
+        "results": [
+            {
+                "id": "173507706457238333763589",
+                "lender": "Instant Loans",
+                "requestId": "3a0edb3f-aa15-4520-8aac-fde045d91a55",
+                "referenceId": null,
+                "firstName": "Trevor",
+                "lastName": "Seymour",
+                "dateOfBirth": "1989-05-25",
+                "address": {
+                    "streetAddressLine1": "1111 RR2 Chester basin bayveiw drive",
+                    "streetAddressLine2": null,
+                    "city": "Luenburg county",
+                    "country": "CA",
+                    "stateProvince": "NS",
+                    "zipPostalCode": "B0J1K0",
+                    "effectiveDate": null
+                },
+                "phone1": "9022982837",
+                "phone2": null,
+                "fax": null,
+                "email": "trevor.seymour@hotmail.com",
+                "job": {
+                    "companyName": "Harry freeman",
+                    "companyPhone": "9026852792",
+                    "supervisorName": "Harry freeman",
+                    "jobTitle": "Production worker",
+                    "payFrequency": "biweekly",
+                    "payNext": "2024-12-24",
+                    "startDate": "2000-08-28"
+                },
+                "references": [
+                    {
+                        "firstName": "ref 1 demo first name",
+                        "lastName": "ref 1 demo last name",
+                        "phone": "1111111111",
+                        "email": null,
+                        "relationship": "Sister"
+                    },
+                    {
+                        "firstName": "ref 2 demo first name",
+                        "lastName": "ref 2 demo last name",
+                        "phone": "2222222222",
+                        "email": null,
+                        "relationship": "Sister"
+                    }
+                ],
+                "amount": 3000,
+                "balance": null,
+                "requestDate": "2024-12-24T16:51:03.000Z",
+                "ipAddress": "0.0.0.0",
+                "language": null,
+                "language_id": null,
+                "status": "missing-ibv",
+                "comments": null,
+                "statusHistory": [
+                    {
+                        "status": "new",
+                        "date": "2024-12-24T16:51:03.000Z",
+                        "comments": null,
+                        "reason": null
+                    },
+                    {
+                        "status": "missing-ibv",
+                        "date": "2024-12-26T15:13:35.893Z",
+                        "comments": null,
+                        "reason": null
+                    }
+                ],
+                "canRenew": false,
+                "renewalUrl": null,
+                "canSolicit": true,
+                "snoozeUntil": null,
+                "revisions": 1,
+                "createdAt": "2024-12-24T21:51:03.000Z",
+                "lastUpdatedAt": "2024-12-26T15:13:36.000Z"
+            },
+            {
+                "id": "173507657103512842590300",
+                "lender": "Instant Loans",
+                "requestId": "b9807ebb-0f9f-4c56-9f47-8cf0d662c60a",
+                "referenceId": null,
+                "firstName": "Trevor",
+                "lastName": "Seymour",
+                "dateOfBirth": "1989-05-25",
+                "address": {
+                    "streetAddressLine1": "1111 RR2 Chester basin bayveiw drive",
+                    "streetAddressLine2": null,
+                    "city": "Luenburg county",
+                    "country": "CA",
+                    "stateProvince": "NS",
+                    "zipPostalCode": "B0J1K0",
+                    "effectiveDate": null
+                },
+                "phone1": "9022982837",
+                "phone2": null,
+                "fax": null,
+                "email": "trevor.seymour@hotmail.com",
+                "job": {
+                    "companyName": "Harry freeman",
+                    "companyPhone": "9026852792",
+                    "supervisorName": "Harry freeman",
+                    "jobTitle": "Production worker",
+                    "payFrequency": "biweekly",
+                    "payNext": "2024-12-24",
+                    "startDate": "2000-08-28"
+                },
+                "references": [
+                    {
+                        "firstName": "ref 2 demo first name",
+                        "lastName": "ref 2 demo last name",
+                        "phone": "2222222222",
+                        "email": null,
+                        "relationship": "Sister"
+                    },
+                    {
+                        "firstName": "ref 1 demo first name",
+                        "lastName": "ref 1 demo last name",
+                        "phone": "1111111111",
+                        "email": null,
+                        "relationship": "Sister"
+                    }
+                ],
+                "amount": 3000,
+                "balance": null,
+                "requestDate": "2024-12-24T16:42:53.000Z",
+                "ipAddress": "0.0.0.0",
+                "language": null,
+                "language_id": null,
+                "status": "duplicates",
+                "comments": null,
+                "statusHistory": [
+                    {
+                        "status": "new",
+                        "date": "2024-12-24T16:42:53.000Z",
+                        "comments": null,
+                        "reason": null
+                    },
+                    {
+                        "status": "duplicates",
+                        "date": "2024-12-26T15:13:34.752Z",
+                        "comments": null,
+                        "reason": null
+                    }
+                ],
+                "canRenew": false,
+                "renewalUrl": null,
+                "canSolicit": true,
+                "snoozeUntil": null,
+                "revisions": 1,
+                "createdAt": "2024-12-24T21:42:54.000Z",
+                "lastUpdatedAt": "2024-12-26T15:13:35.000Z"
+            },
+            {
+                "id": "173507633086551057086098",
+                "lender": "Instant Loans",
+                "requestId": "522d2b29-4132-4beb-a868-98d8c25da944",
+                "referenceId": null,
+                "firstName": "Trevor",
+                "lastName": "Seymour",
+                "dateOfBirth": "1989-05-25",
+                "address": {
+                    "streetAddressLine1": "1111 RR2 Chester basin bayveiw drive",
+                    "streetAddressLine2": null,
+                    "city": "Luenburg county",
+                    "country": "CA",
+                    "stateProvince": "NS",
+                    "zipPostalCode": "B0J1K0",
+                    "effectiveDate": null
+                },
+                "phone1": "9022982837",
+                "phone2": null,
+                "fax": null,
+                "email": "trevor.seymour@hotmail.com",
+                "job": {
+                    "companyName": "Harry freeman",
+                    "companyPhone": "9026852792",
+                    "supervisorName": "Harry freeman",
+                    "jobTitle": "Production worker",
+                    "payFrequency": "biweekly",
+                    "payNext": "2024-12-24",
+                    "startDate": "2000-08-28"
+                },
+                "references": [
+                    {
+                        "firstName": "ref 1 demo first name",
+                        "lastName": "ref 1 demo last name",
+                        "phone": "1111111111",
+                        "email": null,
+                        "relationship": "Sister"
+                    },
+                    {
+                        "firstName": "ref 2 demo first name",
+                        "lastName": "ref 2 demo last name",
+                        "phone": "2222222222",
+                        "email": null,
+                        "relationship": "Sister"
+                    }
+                ],
+                "amount": 3000,
+                "balance": null,
+                "requestDate": "2024-12-24T16:38:51.000Z",
+                "ipAddress": "0.0.0.0",
+                "language": null,
+                "language_id": null,
+                "status": "duplicates",
+                "comments": null,
+                "statusHistory": [
+                    {
+                        "status": "new",
+                        "date": "2024-12-24T16:38:51.000Z",
+                        "comments": null,
+                        "reason": null
+                    },
+                    {
+                        "status": "duplicates",
+                        "date": "2024-12-26T15:13:33.408Z",
+                        "comments": null,
+                        "reason": null
+                    }
+                ],
+                "canRenew": false,
+                "renewalUrl": null,
+                "canSolicit": true,
+                "snoozeUntil": null,
+                "revisions": 1,
+                "createdAt": "2024-12-24T21:38:52.000Z",
+                "lastUpdatedAt": "2024-12-26T15:13:34.000Z"
+            },
+            {
+                "id": "173481868127186009460722",
+                "lender": "Speedy Paid Loans",
+                "requestId": "c7578cfe-6faf-4743-b6d4-0149e7ee886b",
+                "referenceId": null,
+                "firstName": "Trevor",
+                "lastName": "Seymour",
+                "dateOfBirth": "1989-05-25",
+                "address": {
+                    "streetAddressLine1": "RR2 Chester basin Bayveiw drive",
+                    "streetAddressLine2": null,
+                    "city": "Luenburg county",
+                    "country": "CA",
+                    "stateProvince": "NS",
+                    "zipPostalCode": "B0J 1K0",
+                    "effectiveDate": null
+                },
+                "phone1": "9022982837",
+                "phone2": null,
+                "fax": null,
+                "email": "trevor.seymour@hotmail.com",
+                "job": {
+                    "companyName": "Harry freeman and sons ltd.",
+                    "companyPhone": "9026563456",
+                    "supervisorName": "Mark",
+                    "jobTitle": "Production worker",
+                    "payFrequency": "biweekly",
+                    "payNext": "2024-12-26",
+                    "startDate": "2024-08-27"
+                },
+                "references": [
+                    {
+                        "firstName": "Sherry",
+                        "lastName": "Seymour",
+                        "phone": "9022770856",
+                        "email": null,
+                        "relationship": "Mother"
+                    },
+                    {
+                        "firstName": "Tammy",
+                        "lastName": "Swinmer",
+                        "phone": "9022775687",
+                        "email": null,
+                        "relationship": "Girlfriend"
+                    }
+                ],
+                "amount": 1500,
+                "balance": null,
+                "requestDate": "2024-12-21T17:04:48.000Z",
+                "ipAddress": "2001:56b:9fee:d6e6:ed0a:ea99:4f08:3c66",
+                "language": "EN",
+                "language_id": 1,
+                "status": "new",
+                "comments": null,
+                "statusHistory": [
+                    {
+                        "status": "new",
+                        "date": "2024-12-21T17:04:48.000Z",
+                        "comments": null,
+                        "reason": null
+                    }
+                ],
+                "canRenew": false,
+                "renewalUrl": null,
+                "canSolicit": true,
+                "snoozeUntil": null,
+                "revisions": 1,
+                "createdAt": "2024-12-21T22:04:49.000Z",
+                "lastUpdatedAt": null
+            },
+            {
+                "id": "173445508400040148016209",
+                "lender": "24h Cash",
+                "requestId": "48a10bae-0a26-451f-8a6c-37bddb9e8f1c",
+                "referenceId": null,
+                "firstName": "Trevor",
+                "lastName": "Seymour",
+                "dateOfBirth": "1989-05-25",
+                "address": {
+                    "streetAddressLine1": "511",
+                    "streetAddressLine2": null,
+                    "city": "Luenburg county",
+                    "country": "CA",
+                    "stateProvince": "NS",
+                    "zipPostalCode": "B0J 1K0",
+                    "effectiveDate": null
+                },
+                "phone1": "9022982837",
+                "phone2": null,
+                "fax": null,
+                "email": "trevor.seymour@hotmail.com",
+                "job": {
+                    "companyName": "Harry freeman",
+                    "companyPhone": "9026852792",
+                    "supervisorName": "Mark nodding",
+                    "jobTitle": "Production worker",
+                    "payFrequency": null,
+                    "payNext": "2024-11-26",
+                    "startDate": "2024-07-27"
+                },
+                "references": [
+                    {
+                        "firstName": "Sherry",
+                        "lastName": "Seymour",
+                        "phone": "9022770859",
+                        "email": null,
+                        "relationship": "Mother"
+                    },
+                    {
+                        "firstName": "Tammy",
+                        "lastName": "Swinmer",
+                        "phone": "9024144214",
+                        "email": null,
+                        "relationship": "Girlfriend"
+                    }
+                ],
+                "amount": 1500,
+                "balance": null,
+                "requestDate": "2024-12-17T12:04:41.000Z",
+                "ipAddress": "24.201.215.230",
+                "language": "EN",
+                "language_id": 1,
+                "status": "refused",
+                "comments": null,
+                "statusHistory": [
+                    {
+                        "status": "new",
+                        "date": "2024-12-17T12:04:41.000Z",
+                        "comments": null,
+                        "reason": null
+                    },
+                    {
+                        "status": "refused",
+                        "date": "2024-12-17T18:38:11.424Z",
+                        "comments": null,
+                        "reason": "new-bank-account"
+                    }
+                ],
+                "canRenew": false,
+                "renewalUrl": null,
+                "canSolicit": true,
+                "snoozeUntil": null,
+                "revisions": 1,
+                "createdAt": "2024-12-17T17:04:42.000Z",
+                "lastUpdatedAt": "2024-12-17T18:38:12.000Z"
+            }
+        ],
+        "count": 5,
+        "pages": 1,
+        "total_count": 5,
+        "score": {
+            "scoreEnabled": false,
+            "score": null,
+            "reasons": []
+        },
+        "score_requested": true,
+        "billed": true,
+        "cached": false,
+        "created_at": "2025-01-01T08:28:25.890Z",
+        "updated_at": null,
+        "query": {
+            "referenceId": null,
+            "firstName": "trevor",
+            "lastName": "seymour",
+            "dateOfBirth": "1989-05-25",
+            "phone": "19022982837",
+            "email": "trevor.seymour@hotmail.com",
+            "ipAddress": null,
+            "accuracy": 2,
+            "score": true,
+            "track": false
+        }
+    },
+    "Historical_Transactions": [
+        {
+            "name": "CANADIAN TIRE G _F",
+            "transaction_id": "ec028b19-c09a-4fdd-b59c-1f94e790e9b9",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -56.43,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-31T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "WALMART STORE # _F",
+            "transaction_id": "24e68382-4b44-40f9-a583-dea19b74eaf4",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -10.32,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-31T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "MONTHLY ACCOUNT FEE",
+            "transaction_id": "f8cdc019-3bed-43e3-9c28-8caa0d5df8ee",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -16.95,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-31T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "OVERDRAFT INTEREST",
+            "transaction_id": "cb806c90-1894-41ec-9d02-9fc0cdfbc71d",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Interest Charge"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -0.82,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-31T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "GTLPAD MSP",
+            "transaction_id": "1c71c5e5-1483-476a-99fb-c6f097d1cff8",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -140.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-31T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE # _F",
+            "transaction_id": "428561a3-37bd-45ab-a157-d913e098fe0b",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -12.64,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-31T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "TIM HORTONS #15 _F",
+            "transaction_id": "10af98f9-e0ec-4a14-ae82-c702933b46a3",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Food and Dining",
+                "Coffee Shops"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -7.29,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-30T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PARTS CITY BRID _F",
+            "transaction_id": "10ca0466-1eae-4287-a708-690cc67c12fe",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -58.35,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-30T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***ZEt",
+            "transaction_id": "abb21a0b-de26-42d1-b304-ba519c3a3004",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -40.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-30T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PROXI BRIDGEWAT",
+            "transaction_id": "cceba25b-6c5a-4552-815b-053bbf8ec036",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -40.01,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-30T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "BRIDGEWATER SUP _F",
+            "transaction_id": "3b2f6e3e-d4fb-4c49-b395-6f4b27fc7520",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -173.37,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-30T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "IRVING STATION _F",
+            "transaction_id": "29f4c830-922b-47a3-9b90-aeab66ce293c",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -16.22,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-30T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PROXI BRIDGEWAT _F",
+            "transaction_id": "7103a0db-ed89-4562-969a-92a5f6d0c7f6",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -15.63,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-30T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***AQ2",
+            "transaction_id": "56ba08df-10e1-4d8e-9ca7-23d017302a4a",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 75.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-30T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE # _F",
+            "transaction_id": "b8cc2e50-14cf-4077-9609-1f654327d233",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -121.85,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-30T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***vGt",
+            "transaction_id": "2443c82a-36ad-400a-ab43-d7e0c0b97e67",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -10.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-30T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CIRCLE K / IRVI _F",
+            "transaction_id": "20049e07-b466-4fc7-aaf2-b1ed2d18e1db",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -65.65,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-27T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***AA3",
+            "transaction_id": "5623b148-6def-4723-ab76-da026f4b9f94",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -20.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-27T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***6YZ",
+            "transaction_id": "cce6eef0-5cd0-484b-b60d-36a7bf01058c",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 600.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-27T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***Zvn",
+            "transaction_id": "dba206e1-0cfc-4041-b14a-829b13e73b89",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -20.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-27T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "TD ATM DEP 007617",
+            "transaction_id": "217108d9-74fc-45cd-acac-d23b27a65210",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous Income",
+                "Deposit"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 100.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-27T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***eYX",
+            "transaction_id": "3ce9f4a0-3968-4011-8cd8-089aba8072af",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 725.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-27T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "AIR-SERV A PS71 _F",
+            "transaction_id": "c9072de4-8429-4eb3-8f5a-598d794ebb09",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Travel and Transportation",
+                "Auto Repair and Maintenance"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -2.50,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-27T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "RECARDOS PIZZA _F",
+            "transaction_id": "a067239f-6e09-4593-986e-7832861ebd65",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Food and Dining",
+                "Restaurants"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -14.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-27T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "RTN NOT AUTH",
+            "transaction_id": "b68ff81b-b21c-45e9-86bc-ba4e0bb9e978",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 575.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-27T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE DEC/23/2024",
+            "transaction_id": "7c49babb-6cc9-48c8-a09e-ac4badbedca3",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-27T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***6WZ",
+            "transaction_id": "5827a689-fe45-488b-89a9-d365406d00db",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -20.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-27T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***UWt",
+            "transaction_id": "531e9c01-d77d-4ed2-a692-bade6d74924a",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -1500.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-27T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "TIM HORTONS #15 _F",
+            "transaction_id": "d2429656-1c50-4f9d-89a9-431ffa29dbee",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Food and Dining",
+                "Coffee Shops"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -8.34,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-27T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "STOP PAYMENT FEE",
+            "transaction_id": "5e07a8d5-7eef-4343-a177-b1728d8adfca",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -12.50,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-27T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "NCR855-782-3511 _V",
+            "transaction_id": "e2e5bd45-f9d1-4894-b378-47dd4fd7ec04",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Micro Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -167.42,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-27T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "HARRYFREEMAN PAY",
+            "transaction_id": "6dbfd95e-4a4c-413e-9b07-d9e13a5fc41c",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Income",
+                "Wages and Salary"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 1554.04,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-24T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "9396-6539 Quebe LOAN",
+            "transaction_id": "3bf918c7-19ad-414e-9a11-7aa1fdd0917e",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Other Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -75.54,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-24T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE G _F",
+            "transaction_id": "8b2f6c71-cec2-426d-b261-9afc2ea96fec",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -16.43,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-24T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "N.S. POWER K5X5L3",
+            "transaction_id": "46715291-439b-4e99-a3c7-9560939bf032",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Utilities",
+                "Water / Gas / Electricity / Sewage"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -252.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-24T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PRA Pay2Day MSP",
+            "transaction_id": "4be99348-110b-4af4-b658-e98cc547a850",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Micro Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -575.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-24T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "AIR-SERV AIR PS _F",
+            "transaction_id": "edf73b6e-ab45-40c0-9554-aee4fa23f835",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Travel and Transportation",
+                "Auto Repair and Maintenance"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -2.50,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-24T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "WALMART STORE # _F",
+            "transaction_id": "b2fa52b3-e528-4f21-9ede-85483523dbd4",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -70.15,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-24T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "NCR 18557823511 LOAN",
+            "transaction_id": "dfbc0a32-d51d-47f9-9367-7394974807c5",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Micro Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -85.21,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-24T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***PrZ",
+            "transaction_id": "8725e298-dd81-411c-a57f-01d2bed9fbc8",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 7.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-23T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "GOW\u0027S HOME HARD _F",
+            "transaction_id": "a4552c6c-5c39-44a1-9853-083cd16a0f9a",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "Home and Garden"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -16.09,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-23T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "TIM HORTONS #20 _F",
+            "transaction_id": "7fad2bff-7289-43c9-9f72-06ac8614d264",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Food and Dining",
+                "Coffee Shops"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -7.99,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-23T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE # _F",
+            "transaction_id": "a4e74425-5b37-41aa-8f7b-50e0ef7816a1",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -31.68,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-23T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "WENDY\u0027S #6555 _F",
+            "transaction_id": "d830b2ae-127f-4bbb-8218-1a967cbec77a",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Food and Dining",
+                "Fast Food"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -31.76,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-23T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CIRCLE K / IRVI _F",
+            "transaction_id": "fa9c26ef-14ab-49d7-89ff-8b31b970844e",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -40.01,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-23T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "JAMALS PIZZA _F",
+            "transaction_id": "d810347c-a2a0-4713-9b79-6178574e322f",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Food and Dining",
+                "Restaurants"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -15.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-23T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "COVEY\u0027S AUTO RE",
+            "transaction_id": "dbefb456-f8d5-4a49-bb6a-b1f6f9aec72b",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -57.50,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-23T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "AIR-SERV AIR PS _F",
+            "transaction_id": "0699e231-556d-4707-9405-d4706db546ed",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Travel and Transportation",
+                "Auto Repair and Maintenance"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -2.50,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-23T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SAM\u0027S QUICK MAR _F",
+            "transaction_id": "d5ad8194-74e9-4b42-9d46-346016aa91a0",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -15.39,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-23T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SHOPPERS DRUG M _F",
+            "transaction_id": "971814dc-1a51-4779-995d-e63341b3bca5",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Health and Lifestyle",
+                "Medical Care"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -35.17,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-23T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "MAHONE BAY SAVE _F",
+            "transaction_id": "ae84265c-49bf-4b2e-8696-cfd006c40358",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -84.32,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-20T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "STOP PAYMENT FEE",
+            "transaction_id": "8cc203b1-fe3d-4c95-b825-5c17a76aefd3",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -12.50,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-20T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CIRCLE K / IRVI _F",
+            "transaction_id": "24ef847a-08c3-4da1-8f88-74766ed4afe2",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -15.63,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-20T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "STOP PAYMENT FEE",
+            "transaction_id": "2b9ee9ad-fd5d-4680-bb08-02e83106a8a4",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -12.50,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-20T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PROXI BRIDGEWAT _F",
+            "transaction_id": "cf9905c7-7bea-4d6f-9a30-c74f6a1c3617",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -43.61,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-19T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "WALMART STORE # _F",
+            "transaction_id": "65584798-99e1-49ff-8106-c333c7c50c84",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -6.47,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "WENDY\u0027S #6555 _F",
+            "transaction_id": "3fe95d63-89d9-420d-b868-de1fefac4fcd",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Food and Dining",
+                "Fast Food"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -11.88,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE # _F",
+            "transaction_id": "ee725c46-bc6f-446f-87c9-6276e16aa8ca",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -12.97,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "AIR-SERV AIR PS _F",
+            "transaction_id": "890a143b-9240-48ca-b25b-704ef255647e",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Travel and Transportation",
+                "Auto Repair and Maintenance"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -2.50,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE G _F",
+            "transaction_id": "918a0199-6f3e-499f-ba0c-2f05a6c1f7fa",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -16.43,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "AIR-SERV AIR PS _F",
+            "transaction_id": "3866a013-5f3f-4371-9a39-8aebb94c5579",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Travel and Transportation",
+                "Auto Repair and Maintenance"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -2.50,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE DEC/12/2024",
+            "transaction_id": "abaffffe-bd9b-4ee9-b4f3-6753d99af94b",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-16T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "AIR-SERV AIR PS _F",
+            "transaction_id": "9f24ef87-87eb-462e-9a36-c10d8306174b",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Travel and Transportation",
+                "Auto Repair and Maintenance"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -2.50,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-16T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "AIR-SERV AIR PS _F",
+            "transaction_id": "b7949e1a-75e0-4088-b445-a25243e94e08",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Travel and Transportation",
+                "Auto Repair and Maintenance"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -2.50,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-16T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE #",
+            "transaction_id": "aaf32268-50e5-4a7d-bb9a-ea013981f579",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -69.87,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-16T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE G _F",
+            "transaction_id": "4dd2efe7-b830-4270-bcfa-fcad3a23ed33",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -66.43,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-16T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "BRIDGEWATER SUP _F",
+            "transaction_id": "bdced846-c08d-4b58-8cd7-75c42d413575",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -15.29,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-16T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "TD ATM W/D 001134",
+            "transaction_id": "0345a89a-bb94-45b4-b2b0-a2fe7f32fe87",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous Expenses",
+                "Cash Withdrawal"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -75.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-16T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "FRESH CUTS MARK _F",
+            "transaction_id": "11e0996b-1f6c-4551-a5ab-5a0ca726b8f4",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -57.60,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-16T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE G _F",
+            "transaction_id": "7c9f9bb1-2ff2-4473-85e9-99a7f1e8900d",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -16.43,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-16T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***ca5",
+            "transaction_id": "97ccb787-9687-431e-886c-2c8c2fc793cd",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 75.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-16T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***c7h",
+            "transaction_id": "0e85ebe5-2e44-41cb-828b-f803211266e6",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 50.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-16T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***etz",
+            "transaction_id": "90d8f6d9-8f3a-4244-af21-2798b03dbda6",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 500.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-16T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "RTN STOP PAYT",
+            "transaction_id": "568eb7c8-1600-41b7-9075-42ed143b3a5d",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 575.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-13T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "ICASH5H9W LOAN",
+            "transaction_id": "90e10af3-3667-4bd0-9d54-6f39579c9c76",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Micro Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -575.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-12T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "NCR 18557823511 LOAN",
+            "transaction_id": "075d3f03-9aef-4421-8a98-0d4216a4e695",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Micro Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -85.21,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-12T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "IRVING STATION _F",
+            "transaction_id": "692231a2-0bab-4c86-968d-4059fc965200",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -64.25,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-12T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***AVZ",
+            "transaction_id": "d865819e-9ff2-4d0d-bb6a-1382f527b72b",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -1500.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-12T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "HARRYFREEMAN PAY",
+            "transaction_id": "ea699c30-4ad0-4e7b-afe6-9b7cda6e6216",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Income",
+                "Wages and Salary"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 1848.72,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-12T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE DEC/10/2024",
+            "transaction_id": "c30ea16e-07f9-41b8-87ca-ff4c3c7bc6fa",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-12T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PRA Pay2Day MSP",
+            "transaction_id": "9125e1a7-963a-4b1c-923d-0a243032e699",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Micro Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -230.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-12T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CIRCLE K / IRVI _F",
+            "transaction_id": "a0f0f13b-b131-4c65-abef-9d137015397b",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -55.65,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-10T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "AIR-SERV A PS71 _F",
+            "transaction_id": "0bc5657d-6024-4bb5-ae12-048e25631e9c",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Travel and Transportation",
+                "Auto Repair and Maintenance"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -2.50,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-10T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "AIR-SERV A PS71 _F",
+            "transaction_id": "13d2d134-39ef-4345-9e42-ba50c8feb2ef",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Travel and Transportation",
+                "Auto Repair and Maintenance"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -2.50,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-10T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "STOP PAYMENT FEE",
+            "transaction_id": "aabb90f3-abc0-4cdc-81c7-84012b25136b",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -12.50,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-10T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***ZPU",
+            "transaction_id": "c687714f-afa7-4754-acef-e6d59384d582",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 30.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-09T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CIRCLE K / IRVI _F",
+            "transaction_id": "a626f600-d445-4cd3-b2a0-b8fbff3e0397",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -40.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-09T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "TIM HORTONS #15 _F",
+            "transaction_id": "ae9bedce-0404-4226-b7a9-964617b0c612",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Food and Dining",
+                "Coffee Shops"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -16.54,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-09T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE # _F",
+            "transaction_id": "8c2ff724-cf1d-4648-a54e-9d09eb4b2669",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -30.85,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-09T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SOBEYS #322 _F",
+            "transaction_id": "6eb3f346-d1c1-45ed-912e-93830f9fc3bf",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "Groceries"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -54.07,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-09T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SHELL 4559 _F",
+            "transaction_id": "1d143b72-7dea-44c3-96bc-26759bdc9787",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Travel and Transportation",
+                "Gas and Fuel"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -14.55,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-09T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE DEC/04/2024",
+            "transaction_id": "b7b3068a-81b6-419b-bfc1-ca5f2c527d54",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-06T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE DEC/03/2024",
+            "transaction_id": "3def725b-679b-4a51-b641-54572963b3fb",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-05T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE G _F",
+            "transaction_id": "81af4b69-94a7-431a-8f1b-9e16e6441587",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -61.12,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-05T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***thA",
+            "transaction_id": "034d894f-211e-43c3-8931-58b90c9a1f34",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 300.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-05T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE DEC/02/2024",
+            "transaction_id": "8830f2a7-c463-47f4-a2be-2b0aed4e1f85",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-04T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "TELUS MOBLTY X5H6X4",
+            "transaction_id": "a254bb22-d48e-42d3-bbfd-a6a35c106544",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Utilities",
+                "TV / Internet / Phone"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -121.49,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-04T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***z7v",
+            "transaction_id": "10418caa-36bf-4222-a4d9-0d97f27905b2",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 200.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-04T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE G _F",
+            "transaction_id": "fb22c0d3-5911-4882-ab68-26be6f430ab0",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -70.33,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-03T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "BRIDGEWATER SUP",
+            "transaction_id": "0006bc35-b764-4db7-91b8-967fdc35f809",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -347.23,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-02T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CIRCLE K / IRVI _F",
+            "transaction_id": "86d7da0f-dec1-4d0a-a3b7-c52afdc2d935",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -15.63,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-02T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***8aq",
+            "transaction_id": "93ccb98f-faa0-440a-8fae-78bc202aa3bc",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 50.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-02T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "TD ATM W/D 009343",
+            "transaction_id": "da728e29-5f94-4fbf-b100-02b187fc678f",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous Expenses",
+                "Cash Withdrawal"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -60.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-02T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SHELL 4559 _F",
+            "transaction_id": "2d0a4087-20f8-46d2-bcb3-be8c16862530",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Travel and Transportation",
+                "Gas and Fuel"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -50.01,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-02T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "GTLPAD MSP",
+            "transaction_id": "c07b1f5c-d756-4757-834e-c3b40fa8b432",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -140.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-02T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "TD Ins/TD Assur INS",
+            "transaction_id": "73ec3e92-0a2c-4b99-bfd3-86263fe8a415",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Insurance",
+                "Insurance"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -117.32,
+            "CurrencyCode": "CAD",
+            "date": "2024-12-02T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "OVERDRAFT INTEREST",
+            "transaction_id": "84bcd5da-c046-4483-b142-62a95eb1ae43",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Interest Charge"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -0.96,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-29T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CIRCLE K / IRVI _F",
+            "transaction_id": "87304066-36cf-46df-b579-e3b129c62c3e",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -24.79,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-29T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "MONTHLY ACCOUNT FEE",
+            "transaction_id": "e9a333fc-3795-4b85-9154-45d49d8b3a6a",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -16.95,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-29T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE NOV/27/2024",
+            "transaction_id": "7a2f6c0b-37f0-462c-ad99-2b498f6dbaab",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-29T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***xtj",
+            "transaction_id": "58418215-1e3b-49bb-88b8-efcc4baa6b28",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 500.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-29T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***JP8",
+            "transaction_id": "274d8d1f-760d-487b-bbdc-3e90fd6d7a8e",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -84.34,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-29T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***Fbe",
+            "transaction_id": "257e9ec4-7fba-453b-9352-a2ecb7a5ed95",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -500.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-29T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "NCR 18557823511 LOAN",
+            "transaction_id": "3e4fb1ef-a1f0-4783-bb42-8d012b5a76f6",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Micro Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -85.21,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-28T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "HARRYFREEMAN PAY",
+            "transaction_id": "5fb0c0cd-7c70-4a8a-84e1-22cd893bce0a",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Income",
+                "Wages and Salary"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 1453.90,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-28T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "ICASH5T7M LOAN",
+            "transaction_id": "6ee255e5-75ee-462a-a848-03be90b5053f",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Micro Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -345.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-28T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "BRIDGEWATER SUP _F",
+            "transaction_id": "eeabaff7-d54d-4884-865f-1942f5938a9d",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -19.36,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-28T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "IRVING STATION _F",
+            "transaction_id": "45fb1ff6-3552-44cf-9c46-41e38354e9f1",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -56.22,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-27T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE NOV/25/2024",
+            "transaction_id": "8aa1d682-26c7-4945-b507-4a7f022bfd84",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-27T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE NOV/22/2024",
+            "transaction_id": "43458f68-989c-4901-8aa9-766b138b970c",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-26T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "TD ATM W/D 009225",
+            "transaction_id": "48665933-afcd-4790-88da-0d12f293bd6d",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous Expenses",
+                "Cash Withdrawal"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -90.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-25T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "NOFRILLS SAM\u0027S _F",
+            "transaction_id": "e23173aa-c3a5-4a96-9aa5-53a5ff3e8eab",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -65.83,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-25T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***tsT",
+            "transaction_id": "e85c05ec-f71d-4a57-b222-a28916e7c65f",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 90.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-25T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "AIR-SERV AIR PS _F",
+            "transaction_id": "c900772a-cf71-4d4c-a76a-8b51fcd0c42d",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Travel and Transportation",
+                "Auto Repair and Maintenance"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -2.50,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-25T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE G _F",
+            "transaction_id": "5f921704-87aa-4a57-870f-5045b2fbfa7e",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -56.44,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-25T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PROXI BRIDGEWAT _F",
+            "transaction_id": "6b75d7ff-8ac2-44ca-be75-7c36c07b0696",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -60.44,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-22T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE NOV/20/2024",
+            "transaction_id": "fff794f2-4197-43a8-a0dd-42898903f6a2",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-22T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "MAHONE BAY SAVE _F",
+            "transaction_id": "53c02a8d-bd0f-4189-82ef-898a0e63f6ad",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -45.36,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-20T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CIRCLE K / IRVI _F",
+            "transaction_id": "7c17fbc4-7995-4373-9b19-15459db69cd2",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -15.63,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-20T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE G _F",
+            "transaction_id": "b71d5e11-779c-4e49-8d48-f4bc02ffa3c8",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -54.69,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-19T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "TIM HORTONS #20 _F",
+            "transaction_id": "48639705-10c4-4ecb-8969-cf77ab5b53bf",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Food and Dining",
+                "Coffee Shops"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -10.43,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***x9B",
+            "transaction_id": "4c465172-fd30-407d-807b-a4c416c4c1c0",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -10.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***8Dz",
+            "transaction_id": "9279d515-a275-420b-838b-10ea70713346",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -20.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SAM\u0027S QUICK MAR _F",
+            "transaction_id": "380a0efd-4fe6-4396-b292-1dd0f2115eb8",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -19.85,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***6aG",
+            "transaction_id": "a2c31170-27d2-4a40-8e1b-275ef816bbed",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 300.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***gTf",
+            "transaction_id": "7082bf93-6f0b-4068-8715-f8adf6aafaab",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -8.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***uTc",
+            "transaction_id": "101602ad-e0d6-46a1-8ac2-de59006d7c84",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 35.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "MAHONE BAY SAVE _F",
+            "transaction_id": "9515c65c-d18a-4336-8558-b12074982662",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -36.49,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CIRCLE K / IRVI _F",
+            "transaction_id": "4b58d9d8-abcf-4833-9751-30033e42c0fc",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -55.65,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "MAHONE BAY SAVE _F",
+            "transaction_id": "6fcee4dc-d19c-45aa-b532-7013b8600a3f",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -80.73,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***YVV",
+            "transaction_id": "dc49a70c-29bb-44c0-82e9-072f1955368e",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -10.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***X5h",
+            "transaction_id": "377e554d-af1b-4be8-ae18-a4887e2804c7",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -20.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "TD ATM W/D 004970",
+            "transaction_id": "d7f0f77d-2007-464e-9f90-bc415194808c",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous Expenses",
+                "Cash Withdrawal"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -90.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***uhR",
+            "transaction_id": "7f7c2284-e876-40c5-9709-8cf6da09b71a",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -20.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***QAw",
+            "transaction_id": "cfb23b48-a040-4be7-af47-b922ea1ed012",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -1000.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-15T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CIRCLE K / IRVI _F",
+            "transaction_id": "23e6be7d-3b0f-463f-925c-1b1fb9de73c8",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -24.91,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-14T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "HARRYFREEMAN PAY",
+            "transaction_id": "f6a2b52c-fcf1-46f6-962c-059da7d42e28",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Income",
+                "Wages and Salary"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 1453.90,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-14T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "9160-4181 QUEBE LOAN",
+            "transaction_id": "bc237f70-4d2a-4ffc-b6aa-c792c547c706",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Micro Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -85.21,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-14T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "ICASH1Y0Z LOAN",
+            "transaction_id": "69061eba-4928-4f09-9202-aa4ebb2d924f",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Micro Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -575.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-14T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE NOV/08/2024",
+            "transaction_id": "91bf92dc-95d2-4263-b0c0-591b60b40787",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-13T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "MAHONE BAY SAVE",
+            "transaction_id": "11505bf0-4ba2-4569-b7ec-33a78f0e246a",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -37.38,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-12T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "IRVING STATION _F",
+            "transaction_id": "8d51fdb6-5791-4e40-a265-86b13dd9503d",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -16.22,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-12T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PNS PAYMENT MSP",
+            "transaction_id": "2102a183-2c0c-4fcd-afdb-2f4c13e4ea89",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 600.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-12T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CIRCLE K / IRVI _F",
+            "transaction_id": "21cf28e3-2943-4454-ba48-548d2949a006",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -64.85,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-12T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE G _F",
+            "transaction_id": "d61eb8ca-8204-407c-b8e7-50c8b61826d3",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -61.13,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-08T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE NOV/06/2024",
+            "transaction_id": "dc4ad102-47be-4180-ba84-0700ce906e15",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-08T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "AIR-SERV AIR PS _F",
+            "transaction_id": "f3fa8ad3-ebfb-4006-adf9-f505fb82f718",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Travel and Transportation",
+                "Auto Repair and Maintenance"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -2.50,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-08T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "MAHONE BAY SAVE _F",
+            "transaction_id": "8a1407f0-1ecd-4d61-9a56-9ad1812126d0",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -67.13,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-06T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE G _F",
+            "transaction_id": "7c6b11c1-0f8f-43a4-ab88-dd8c17fc8261",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -66.44,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-05T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE OCT/31/2024",
+            "transaction_id": "5b861a3b-73a9-4715-af2b-fd583bc3afdb",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-04T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "TELUS MOBLTY A4Y9L3",
+            "transaction_id": "db73003f-e01a-487d-b828-422b73890f3b",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Utilities",
+                "TV / Internet / Phone"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -121.95,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-04T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "MAHONE BAY SAVE _F",
+            "transaction_id": "45bff44a-4509-4afd-8c83-eb25040c55e8",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -93.33,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-04T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "THE WATER MARKE _F",
+            "transaction_id": "be62a5ad-9bfd-4b96-b4b6-c3bb82ec1007",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -6.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-04T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PROXI BRIDGEWAT _F",
+            "transaction_id": "d4ad8ad9-e15e-41c7-b9c5-5f8f870c6938",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -23.41,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-04T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "THE WATER MARKE _F",
+            "transaction_id": "e33a65dd-eb2f-4cef-a674-e85ad387ee1f",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-04T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "MCDONALD\u0027S #661 _F",
+            "transaction_id": "6290dd3c-9da8-4ad0-a5f4-cf6276cdcaf0",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Food and Dining",
+                "Fast Food"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -29.85,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-04T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "AKI\u0027S CONVENIEN _F",
+            "transaction_id": "dce24000-f19e-47fc-ac21-9cec8c64d039",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -15.53,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-04T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "BRIDGEWATER SUP _F",
+            "transaction_id": "6185be74-a322-407a-bf51-7391b7548a8b",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -33.36,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-01T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***fPc",
+            "transaction_id": "39753aa9-9235-4c9b-8665-7b19087ac4dc",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 500.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-11-01T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE OCT/29/2024",
+            "transaction_id": "70646e3e-5ad8-4511-b916-feda86e00a63",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-31T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "GTLPAD MSP",
+            "transaction_id": "43be4c04-d1fa-4990-8fe9-bc4d2ba9d6f7",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -140.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-31T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "TD Ins/TD Assur INS",
+            "transaction_id": "ef9be59f-2f60-4733-9246-125cb5c20e15",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Insurance",
+                "Insurance"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -238.35,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-31T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PRA Pay2Day MSP",
+            "transaction_id": "c9288c35-1b4a-4368-bbbf-f40188c625ae",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Micro Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -575.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-31T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "MONTHLY ACCOUNT FEE",
+            "transaction_id": "2fe87d74-8a71-4958-a7b6-9684a97d91a8",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -16.95,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-31T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "HARRYFREEMAN PAY",
+            "transaction_id": "d8dfe775-35f4-4043-849a-11166321b6f3",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Income",
+                "Wages and Salary"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 1453.90,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-31T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "OVERDRAFT INTEREST",
+            "transaction_id": "12b38949-6432-468e-8c24-cdb8eecb9163",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Interest Charge"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -0.27,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-31T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "9160-4181 QUEBE LOAN",
+            "transaction_id": "ee572a7a-ba5b-45f9-87a7-8a85dea05d17",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Micro Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -85.21,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-31T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "IRVING STATION _F",
+            "transaction_id": "e9f7a26b-417e-4cfc-8c4d-f15d7a916dfa",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -66.22,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-31T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "ICASH8P6X LOAN",
+            "transaction_id": "d5a881f1-3087-4f70-8223-cf7058c1ee12",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Micro Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -345.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-31T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE OCT/28/2024",
+            "transaction_id": "5189d0e7-fcb4-4b1e-82ed-f1947d5f92f8",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-30T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "IRVING STATION",
+            "transaction_id": "e6f4cd3c-3154-4d68-a1c0-f1ab3bb9d1a6",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -16.22,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-29T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE G _F",
+            "transaction_id": "d06020c2-da34-42a0-b14e-d776de2e21d5",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -16.43,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-28T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "WALMART STORE # _F",
+            "transaction_id": "a44da963-f841-4f49-a96b-dca4f4f855b4",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -104.82,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-28T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "IRVING STATION _F",
+            "transaction_id": "ffe312ec-e2d6-434e-820d-702cb8b68f6d",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -50.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-28T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE G _F",
+            "transaction_id": "d6fd3883-d97c-4253-9422-d6b338cbef9a",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -64.33,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-25T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE OCT/21/2024",
+            "transaction_id": "448a372f-beda-478a-a8f3-f2bf77b36d2b",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-23T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "AKI\u0027S CONVENIEN _F",
+            "transaction_id": "22bad3b2-14e9-4231-acaf-7a8e578cfe27",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -22.40,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-23T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***MEG",
+            "transaction_id": "3b5a0243-acbc-42be-b178-d4239aebbee0",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 300.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-22T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PROXI BRIDGEWAT _F",
+            "transaction_id": "64b7dd3e-6981-4ea1-a174-6f7023225391",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -57.79,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-22T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CIRCLE K / IRVI _F",
+            "transaction_id": "122eb31c-d36f-4134-813e-58ce3dc19288",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -15.63,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-21T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "WALMART STORE # _F",
+            "transaction_id": "6794be15-06fc-4a6a-a4f3-e4c153254a0d",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -48.01,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-21T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SHOPPERS DRUG M _F",
+            "transaction_id": "a21bc416-cc8e-4aed-a523-f3bd1629fadf",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Health and Lifestyle",
+                "Medical Care"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -31.04,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-21T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PROXI BRIDGEWAT _F",
+            "transaction_id": "354730ec-4d4f-4440-8a2c-503f66754a84",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -20.43,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-21T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "MAHONE BAY SAVE _F",
+            "transaction_id": "29891eab-7061-4af0-aaab-d0f2336719d4",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -61.61,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-21T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CIRCLE K / IRVI",
+            "transaction_id": "17a663ef-5808-4eb4-833d-4bae38d2101f",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -78.37,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***xpD",
+            "transaction_id": "efba085c-b862-4d0b-ac21-64cda61f9acc",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -1000.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***DpR",
+            "transaction_id": "591cf7f3-c9bf-4f97-bdba-275cfb4f00cb",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 500.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-18T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "N.S. POWER R9Y2W4",
+            "transaction_id": "fceb906c-01c5-44a8-a878-f87435b7e2e6",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Utilities",
+                "Water / Gas / Electricity / Sewage"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -167.97,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-17T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE OCT/15/2024",
+            "transaction_id": "47b6f27e-94b2-448a-986c-978210cbc8e7",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-17T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "9160-4181 QUEBE LOAN",
+            "transaction_id": "845cb806-955d-47e9-9578-6b80e5c1f2b2",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Micro Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -85.21,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-17T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "AIR-SERV AIR PS _F",
+            "transaction_id": "814bc2c4-e29c-4716-b8ce-67f16e9e81d6",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Travel and Transportation",
+                "Auto Repair and Maintenance"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -2.50,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-17T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CIRCLE K / IRVI _F",
+            "transaction_id": "7d8eeb03-a339-4a26-9762-e332a9fa4dba",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -13.88,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-17T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "HARRYFREEMAN PAY",
+            "transaction_id": "81b1483b-09d4-4468-bb61-a5a1999808ac",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Income",
+                "Wages and Salary"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 1453.90,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-17T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "ICASH9J3E LOAN",
+            "transaction_id": "1274f42f-0dee-4df9-8689-1c71c6821c6f",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Micro Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -388.97,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-17T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PETRO CANADA143 _F",
+            "transaction_id": "71869a59-5677-4f74-bb06-56730791b75e",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Travel and Transportation",
+                "Gas and Fuel"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -60.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-15T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE # _F",
+            "transaction_id": "d95cebae-2205-40b2-8e9d-1ef92ee619fb",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -23.04,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-15T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "BRIDGEWATER SUP _F",
+            "transaction_id": "ae0bc861-cc66-44b4-9c9e-0bd87f88f1c3",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -190.05,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-15T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CDACARBONREBATE CCR",
+            "transaction_id": "f91bf75e-9131-460f-bedc-8e7363060bec",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 144.20,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-15T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "IRVING STATION _F",
+            "transaction_id": "37e5c02f-afc1-4728-9bcd-a335c30a062b",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -16.22,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-15T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "THE GOLD NUGGET _F",
+            "transaction_id": "460f851f-1e03-48e6-b2c3-b40a3898af4f",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -15.08,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-15T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "AKI\u0027S CONVENIEN _F",
+            "transaction_id": "7a581e3a-cefe-471a-bb01-05e6c67d60bc",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -22.88,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-11T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE G _F",
+            "transaction_id": "0438fdde-30d8-404e-8fa7-30c85984fb6d",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -71.13,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-09T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "TELUS MOBLTY K7Z3L3",
+            "transaction_id": "e0712524-28e0-4468-8559-fdc6c1e0724e",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Utilities",
+                "TV / Internet / Phone"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -121.96,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-07T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***jqG",
+            "transaction_id": "d91822a3-d97f-4909-bcb7-39635e7dd287",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 450.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-07T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "IRVING STATION _F",
+            "transaction_id": "efd69fc4-6dc5-4219-9231-0939b8b0f72b",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Uncategorized",
+                "Uncategorized"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -76.22,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-07T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PODP FEE OCT/03/2024",
+            "transaction_id": "8e0b0794-9b07-4d29-a3c9-3978e2cace12",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -5.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-07T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CANADIAN TIRE G _F",
+            "transaction_id": "9eb5a3f5-5b27-45fe-9139-673508f70477",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -16.43,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-07T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SOBEYS #322",
+            "transaction_id": "ac8d0a4c-aa0f-4560-a160-3433d2b02efb",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "Groceries"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -203.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-07T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "NSF RETURN FEE",
+            "transaction_id": "713cd84a-a69e-4d9f-82d0-5233abb57784",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -48.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-04T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "MOBILE DEPOSIT",
+            "transaction_id": "a4d25479-7f4b-4d77-a489-f613b9ac985e",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous Income",
+                "Deposit"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 153.74,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-04T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "RTN NSF",
+            "transaction_id": "fd4ed3df-8931-4ffc-9a59-17e25d915e19",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Fees and Charges",
+                "Service Fees"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 345.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-04T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "E-TRANSFER ***8Sz",
+            "transaction_id": "291b733f-c656-455f-9ca0-19605cf324b2",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 40.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-04T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "GST GST",
+            "transaction_id": "2866e64e-db8e-41d4-9434-595e827c91d8",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Income",
+                "Government"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 129.75,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-04T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "PRA Pay2Day MSP",
+            "transaction_id": "5408594d-d800-4b4d-8843-39ca666961d9",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Micro Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -207.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-03T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "CIRCLE K / IRVI _F",
+            "transaction_id": "9cdc63b1-0993-4199-8185-5767b1e0c4e6",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Goods and Merchandise",
+                "General Merchandise"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -79.51,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-03T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "SEND E-TFR ***zed",
+            "transaction_id": "11f61433-66d9-48ce-adfe-0230fe70cd43",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Transfers and Adjustments",
+                "Other Transfers and Adjustments"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -1000.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-03T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "ICASH2H0G LOAN",
+            "transaction_id": "4f8bbd65-1e43-4b0c-bfbc-34f60788b0d5",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Miscellaneous",
+                "Micro Loan"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -345.00,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-03T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "HARRYFREEMAN PAY",
+            "transaction_id": "f82bca79-a1cf-4edd-9129-cd9f405afa84",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Income",
+                "Wages and Salary"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": 1453.90,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-03T00:00:00",
+            "authorized_date": null
+        },
+        {
+            "name": "TD Ins/TD Assur INS",
+            "transaction_id": "e0963cff-1691-444c-b5f2-25690e9bb788",
+            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+            "category": [
+                "Insurance",
+                "Insurance"
+            ],
+            "category_id": "",
+            "transaction_type": 0,
+            "payment_channel": 0,
+            "TransactionCode": 0,
+            "amount": -273.35,
+            "CurrencyCode": "CAD",
+            "date": "2024-10-03T00:00:00",
+            "authorized_date": null
+        }
+    ],
+    "Historical_Balance": {
+        "report": {
+            "asset_report_id": "",
+            "client_report_id": "7534cea3-cfbc-459e-b25a-e96bb2856e98",
+            "date_generated": "2025-01-01T08:28:15.6915893",
+            "days_requested": 90,
+            "items": [
+                {
+                    "accounts": [
+                        {
+                            "account_id": "d383339b-0008-408f-8851-ae389e85447e",
+                            "balances": {
+                                "available": 42.95,
+                                "current": -257.05
+                            },
+                            "days_available": 90,
+                            "historical_balances": [
+                                {
+                                    "current": 42.95,
+                                    "date": "2024-12-31"
+                                },
+                                {
+                                    "current": 280.11,
+                                    "date": "2024-12-30"
+                                },
+                                {
+                                    "current": 687.83,
+                                    "date": "2024-12-29"
+                                },
+                                {
+                                    "current": 687.83,
+                                    "date": "2024-12-28"
+                                },
+                                {
+                                    "current": 687.83,
+                                    "date": "2024-12-27"
+                                },
+                                {
+                                    "current": 523.24,
+                                    "date": "2024-12-26"
+                                },
+                                {
+                                    "current": 523.24,
+                                    "date": "2024-12-25"
+                                },
+                                {
+                                    "current": 523.24,
+                                    "date": "2024-12-24"
+                                },
+                                {
+                                    "current": 46.03,
+                                    "date": "2024-12-23"
+                                },
+                                {
+                                    "current": 292.12,
+                                    "date": "2024-12-22"
+                                },
+                                {
+                                    "current": 292.12,
+                                    "date": "2024-12-21"
+                                },
+                                {
+                                    "current": 292.12,
+                                    "date": "2024-12-20"
+                                },
+                                {
+                                    "current": 417.07,
+                                    "date": "2024-12-19"
+                                },
+                                {
+                                    "current": 460.68,
+                                    "date": "2024-12-18"
+                                },
+                                {
+                                    "current": 513.43,
+                                    "date": "2024-12-17"
+                                },
+                                {
+                                    "current": 513.43,
+                                    "date": "2024-12-16"
+                                },
+                                {
+                                    "current": 199.05,
+                                    "date": "2024-12-15"
+                                },
+                                {
+                                    "current": 199.05,
+                                    "date": "2024-12-14"
+                                },
+                                {
+                                    "current": 199.05,
+                                    "date": "2024-12-13"
+                                },
+                                {
+                                    "current": -375.95,
+                                    "date": "2024-12-12"
+                                },
+                                {
+                                    "current": 234.79,
+                                    "date": "2024-12-11"
+                                },
+                                {
+                                    "current": 234.79,
+                                    "date": "2024-12-10"
+                                },
+                                {
+                                    "current": 307.94,
+                                    "date": "2024-12-09"
+                                },
+                                {
+                                    "current": 433.95,
+                                    "date": "2024-12-08"
+                                },
+                                {
+                                    "current": 433.95,
+                                    "date": "2024-12-07"
+                                },
+                                {
+                                    "current": 433.95,
+                                    "date": "2024-12-06"
+                                },
+                                {
+                                    "current": 438.95,
+                                    "date": "2024-12-05"
+                                },
+                                {
+                                    "current": 205.07,
+                                    "date": "2024-12-04"
+                                },
+                                {
+                                    "current": 131.56,
+                                    "date": "2024-12-03"
+                                },
+                                {
+                                    "current": 201.89,
+                                    "date": "2024-12-02"
+                                },
+                                {
+                                    "current": 882.08,
+                                    "date": "2024-12-01"
+                                },
+                                {
+                                    "current": 882.08,
+                                    "date": "2024-11-30"
+                                },
+                                {
+                                    "current": 882.08,
+                                    "date": "2024-11-29"
+                                },
+                                {
+                                    "current": 1014.12,
+                                    "date": "2024-11-28"
+                                },
+                                {
+                                    "current": 9.79,
+                                    "date": "2024-11-27"
+                                },
+                                {
+                                    "current": 71.01,
+                                    "date": "2024-11-26"
+                                },
+                                {
+                                    "current": 76.01,
+                                    "date": "2024-11-25"
+                                },
+                                {
+                                    "current": 200.78,
+                                    "date": "2024-11-24"
+                                },
+                                {
+                                    "current": 200.78,
+                                    "date": "2024-11-23"
+                                },
+                                {
+                                    "current": 200.78,
+                                    "date": "2024-11-22"
+                                },
+                                {
+                                    "current": 266.22,
+                                    "date": "2024-11-21"
+                                },
+                                {
+                                    "current": 266.22,
+                                    "date": "2024-11-20"
+                                },
+                                {
+                                    "current": 327.21,
+                                    "date": "2024-11-19"
+                                },
+                                {
+                                    "current": 381.90,
+                                    "date": "2024-11-18"
+                                },
+                                {
+                                    "current": 428.05,
+                                    "date": "2024-11-17"
+                                },
+                                {
+                                    "current": 428.05,
+                                    "date": "2024-11-16"
+                                },
+                                {
+                                    "current": 428.05,
+                                    "date": "2024-11-15"
+                                },
+                                {
+                                    "current": 1428.05,
+                                    "date": "2024-11-14"
+                                },
+                                {
+                                    "current": 659.27,
+                                    "date": "2024-11-13"
+                                },
+                                {
+                                    "current": 664.27,
+                                    "date": "2024-11-12"
+                                },
+                                {
+                                    "current": 182.72,
+                                    "date": "2024-11-11"
+                                },
+                                {
+                                    "current": 182.72,
+                                    "date": "2024-11-10"
+                                },
+                                {
+                                    "current": 182.72,
+                                    "date": "2024-11-09"
+                                },
+                                {
+                                    "current": 182.72,
+                                    "date": "2024-11-08"
+                                },
+                                {
+                                    "current": 251.35,
+                                    "date": "2024-11-07"
+                                },
+                                {
+                                    "current": 251.35,
+                                    "date": "2024-11-06"
+                                },
+                                {
+                                    "current": 318.48,
+                                    "date": "2024-11-05"
+                                },
+                                {
+                                    "current": 384.92,
+                                    "date": "2024-11-04"
+                                },
+                                {
+                                    "current": 684.99,
+                                    "date": "2024-11-03"
+                                },
+                                {
+                                    "current": 684.99,
+                                    "date": "2024-11-02"
+                                },
+                                {
+                                    "current": 684.99,
+                                    "date": "2024-11-01"
+                                },
+                                {
+                                    "current": 218.35,
+                                    "date": "2024-10-31"
+                                },
+                                {
+                                    "current": 236.45,
+                                    "date": "2024-10-30"
+                                },
+                                {
+                                    "current": 241.45,
+                                    "date": "2024-10-29"
+                                },
+                                {
+                                    "current": 257.67,
+                                    "date": "2024-10-28"
+                                },
+                                {
+                                    "current": 428.92,
+                                    "date": "2024-10-27"
+                                },
+                                {
+                                    "current": 428.92,
+                                    "date": "2024-10-26"
+                                },
+                                {
+                                    "current": 428.92,
+                                    "date": "2024-10-25"
+                                },
+                                {
+                                    "current": 493.25,
+                                    "date": "2024-10-24"
+                                },
+                                {
+                                    "current": 493.25,
+                                    "date": "2024-10-23"
+                                },
+                                {
+                                    "current": 520.65,
+                                    "date": "2024-10-22"
+                                },
+                                {
+                                    "current": 278.44,
+                                    "date": "2024-10-21"
+                                },
+                                {
+                                    "current": 455.16,
+                                    "date": "2024-10-20"
+                                },
+                                {
+                                    "current": 455.16,
+                                    "date": "2024-10-19"
+                                },
+                                {
+                                    "current": 455.16,
+                                    "date": "2024-10-18"
+                                },
+                                {
+                                    "current": 1033.53,
+                                    "date": "2024-10-17"
+                                },
+                                {
+                                    "current": 243.16,
+                                    "date": "2024-10-16"
+                                },
+                                {
+                                    "current": 243.16,
+                                    "date": "2024-10-15"
+                                },
+                                {
+                                    "current": 403.35,
+                                    "date": "2024-10-14"
+                                },
+                                {
+                                    "current": 403.35,
+                                    "date": "2024-10-13"
+                                },
+                                {
+                                    "current": 403.35,
+                                    "date": "2024-10-12"
+                                },
+                                {
+                                    "current": 403.35,
+                                    "date": "2024-10-11"
+                                },
+                                {
+                                    "current": 426.23,
+                                    "date": "2024-10-10"
+                                },
+                                {
+                                    "current": 426.23,
+                                    "date": "2024-10-09"
+                                },
+                                {
+                                    "current": 497.36,
+                                    "date": "2024-10-08"
+                                },
+                                {
+                                    "current": 497.36,
+                                    "date": "2024-10-07"
+                                },
+                                {
+                                    "current": 469.97,
+                                    "date": "2024-10-06"
+                                },
+                                {
+                                    "current": 469.97,
+                                    "date": "2024-10-05"
+                                },
+                                {
+                                    "current": 469.97,
+                                    "date": "2024-10-04"
+                                },
+                                {
+                                    "current": -150.52,
+                                    "date": "2024-10-03"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

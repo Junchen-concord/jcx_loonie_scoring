@@ -1,0 +1,410 @@
+{
+    "Sys_reqAmt": "1000",
+    "Sys_Time": "1/1/2025 3:28:26 AM",
+    "Sys_payfreq": "B",
+    "NDB": {
+        "accountnumber": 32519,
+        "search_query_id": "173572010725431638378746",
+        "results": [
+            {
+                "id": "173507706457238333763589",
+                "lender": "Instant Loans",
+                "requestId": "3a0edb3f-aa15-4520-8aac-fde045d91a55",
+                "referenceId": null,
+                "firstName": "Trevor",
+                "lastName": "Seymour",
+                "dateOfBirth": "1989-05-25",
+                "address": {
+                    "streetAddressLine1": "1111 RR2 Chester basin bayveiw drive",
+                    "streetAddressLine2": null,
+                    "city": "Luenburg county",
+                    "country": "CA",
+                    "stateProvince": "NS",
+                    "zipPostalCode": "B0J1K0",
+                    "effectiveDate": null
+                },
+                "phone1": "9022982837",
+                "phone2": null,
+                "fax": null,
+                "email": "trevor.seymour@hotmail.com",
+                "job": {
+                    "companyName": "Harry freeman",
+                    "companyPhone": "9026852792",
+                    "supervisorName": "Harry freeman",
+                    "jobTitle": "Production worker",
+                    "payFrequency": "biweekly",
+                    "payNext": "2024-12-24",
+                    "startDate": "2000-08-28"
+                },
+                "references": [
+                    {
+                        "firstName": "ref 1 demo first name",
+                        "lastName": "ref 1 demo last name",
+                        "phone": "1111111111",
+                        "email": null,
+                        "relationship": "Sister"
+                    },
+                    {
+                        "firstName": "ref 2 demo first name",
+                        "lastName": "ref 2 demo last name",
+                        "phone": "2222222222",
+                        "email": null,
+                        "relationship": "Sister"
+                    }
+                ],
+                "amount": 3000,
+                "balance": null,
+                "requestDate": "2024-12-24T16:51:03.000Z",
+                "ipAddress": "0.0.0.0",
+                "language": null,
+                "language_id": null,
+                "status": "missing-ibv",
+                "comments": null,
+                "statusHistory": [
+                    {
+                        "status": "new",
+                        "date": "2024-12-24T16:51:03.000Z",
+                        "comments": null,
+                        "reason": null
+                    },
+                    {
+                        "status": "missing-ibv",
+                        "date": "2024-12-26T15:13:35.893Z",
+                        "comments": null,
+                        "reason": null
+                    }
+                ],
+                "canRenew": false,
+                "renewalUrl": null,
+                "canSolicit": true,
+                "snoozeUntil": null,
+                "revisions": 1,
+                "createdAt": "2024-12-24T21:51:03.000Z",
+                "lastUpdatedAt": "2024-12-26T15:13:36.000Z"
+            },
+            {
+                "id": "173507657103512842590300",
+                "lender": "Instant Loans",
+                "requestId": "b9807ebb-0f9f-4c56-9f47-8cf0d662c60a",
+                "referenceId": null,
+                "firstName": "Trevor",
+                "lastName": "Seymour",
+                "dateOfBirth": "1989-05-25",
+                "address": {
+                    "streetAddressLine1": "1111 RR2 Chester basin bayveiw drive",
+                    "streetAddressLine2": null,
+                    "city": "Luenburg county",
+                    "country": "CA",
+                    "stateProvince": "NS",
+                    "zipPostalCode": "B0J1K0",
+                    "effectiveDate": null
+                },
+                "phone1": "9022982837",
+                "phone2": null,
+                "fax": null,
+                "email": "trevor.seymour@hotmail.com",
+                "job": {
+                    "companyName": "Harry freeman",
+                    "companyPhone": "9026852792",
+                    "supervisorName": "Harry freeman",
+                    "jobTitle": "Production worker",
+                    "payFrequency": "biweekly",
+                    "payNext": "2024-12-24",
+                    "startDate": "2000-08-28"
+                },
+                "references": [
+                    {
+                        "firstName": "ref 2 demo first name",
+                        "lastName": "ref 2 demo last name",
+                        "phone": "2222222222",
+                        "email": null,
+                        "relationship": "Sister"
+                    },
+                    {
+                        "firstName": "ref 1 demo first name",
+                        "lastName": "ref 1 demo last name",
+                        "phone": "1111111111",
+                        "email": null,
+                        "relationship": "Sister"
+                    }
+                ],
+                "amount": 3000,
+                "balance": null,
+                "requestDate": "2024-12-24T16:42:53.000Z",
+                "ipAddress": "0.0.0.0",
+                "language": null,
+                "language_id": null,
+                "status": "duplicates",
+                "comments": null,
+                "statusHistory": [
+                    {
+                        "status": "new",
+                        "date": "2024-12-24T16:42:53.000Z",
+                        "comments": null,
+                        "reason": null
+                    },
+                    {
+                        "status": "duplicates",
+                        "date": "2024-12-26T15:13:34.752Z",
+                        "comments": null,
+                        "reason": null
+                    }
+                ],
+                "canRenew": false,
+                "renewalUrl": null,
+                "canSolicit": true,
+                "snoozeUntil": null,
+                "revisions": 1,
+                "createdAt": "2024-12-24T21:42:54.000Z",
+                "lastUpdatedAt": "2024-12-26T15:13:35.000Z"
+            },
+            {
+                "id": "173507633086551057086098",
+                "lender": "Instant Loans",
+                "requestId": "522d2b29-4132-4beb-a868-98d8c25da944",
+                "referenceId": null,
+                "firstName": "Trevor",
+                "lastName": "Seymour",
+                "dateOfBirth": "1989-05-25",
+                "address": {
+                    "streetAddressLine1": "1111 RR2 Chester basin bayveiw drive",
+                    "streetAddressLine2": null,
+                    "city": "Luenburg county",
+                    "country": "CA",
+                    "stateProvince": "NS",
+                    "zipPostalCode": "B0J1K0",
+                    "effectiveDate": null
+                },
+                "phone1": "9022982837",
+                "phone2": null,
+                "fax": null,
+                "email": "trevor.seymour@hotmail.com",
+                "job": {
+                    "companyName": "Harry freeman",
+                    "companyPhone": "9026852792",
+                    "supervisorName": "Harry freeman",
+                    "jobTitle": "Production worker",
+                    "payFrequency": "biweekly",
+                    "payNext": "2024-12-24",
+                    "startDate": "2000-08-28"
+                },
+                "references": [
+                    {
+                        "firstName": "ref 1 demo first name",
+                        "lastName": "ref 1 demo last name",
+                        "phone": "1111111111",
+                        "email": null,
+                        "relationship": "Sister"
+                    },
+                    {
+                        "firstName": "ref 2 demo first name",
+                        "lastName": "ref 2 demo last name",
+                        "phone": "2222222222",
+                        "email": null,
+                        "relationship": "Sister"
+                    }
+                ],
+                "amount": 3000,
+                "balance": null,
+                "requestDate": "2024-12-24T16:38:51.000Z",
+                "ipAddress": "0.0.0.0",
+                "language": null,
+                "language_id": null,
+                "status": "duplicates",
+                "comments": null,
+                "statusHistory": [
+                    {
+                        "status": "new",
+                        "date": "2024-12-24T16:38:51.000Z",
+                        "comments": null,
+                        "reason": null
+                    },
+                    {
+                        "status": "duplicates",
+                        "date": "2024-12-26T15:13:33.408Z",
+                        "comments": null,
+                        "reason": null
+                    }
+                ],
+                "canRenew": false,
+                "renewalUrl": null,
+                "canSolicit": true,
+                "snoozeUntil": null,
+                "revisions": 1,
+                "createdAt": "2024-12-24T21:38:52.000Z",
+                "lastUpdatedAt": "2024-12-26T15:13:34.000Z"
+            },
+            {
+                "id": "173481868127186009460722",
+                "lender": "Speedy Paid Loans",
+                "requestId": "c7578cfe-6faf-4743-b6d4-0149e7ee886b",
+                "referenceId": null,
+                "firstName": "Trevor",
+                "lastName": "Seymour",
+                "dateOfBirth": "1989-05-25",
+                "address": {
+                    "streetAddressLine1": "RR2 Chester basin Bayveiw drive",
+                    "streetAddressLine2": null,
+                    "city": "Luenburg county",
+                    "country": "CA",
+                    "stateProvince": "NS",
+                    "zipPostalCode": "B0J 1K0",
+                    "effectiveDate": null
+                },
+                "phone1": "9022982837",
+                "phone2": null,
+                "fax": null,
+                "email": "trevor.seymour@hotmail.com",
+                "job": {
+                    "companyName": "Harry freeman and sons ltd.",
+                    "companyPhone": "9026563456",
+                    "supervisorName": "Mark",
+                    "jobTitle": "Production worker",
+                    "payFrequency": "biweekly",
+                    "payNext": "2024-12-26",
+                    "startDate": "2024-08-27"
+                },
+                "references": [
+                    {
+                        "firstName": "Sherry",
+                        "lastName": "Seymour",
+                        "phone": "9022770856",
+                        "email": null,
+                        "relationship": "Mother"
+                    },
+                    {
+                        "firstName": "Tammy",
+                        "lastName": "Swinmer",
+                        "phone": "9022775687",
+                        "email": null,
+                        "relationship": "Girlfriend"
+                    }
+                ],
+                "amount": 1500,
+                "balance": null,
+                "requestDate": "2024-12-21T17:04:48.000Z",
+                "ipAddress": "2001:56b:9fee:d6e6:ed0a:ea99:4f08:3c66",
+                "language": "EN",
+                "language_id": 1,
+                "status": "new",
+                "comments": null,
+                "statusHistory": [
+                    {
+                        "status": "new",
+                        "date": "2024-12-21T17:04:48.000Z",
+                        "comments": null,
+                        "reason": null
+                    }
+                ],
+                "canRenew": false,
+                "renewalUrl": null,
+                "canSolicit": true,
+                "snoozeUntil": null,
+                "revisions": 1,
+                "createdAt": "2024-12-21T22:04:49.000Z",
+                "lastUpdatedAt": null
+            },
+            {
+                "id": "173445508400040148016209",
+                "lender": "24h Cash",
+                "requestId": "48a10bae-0a26-451f-8a6c-37bddb9e8f1c",
+                "referenceId": null,
+                "firstName": "Trevor",
+                "lastName": "Seymour",
+                "dateOfBirth": "1989-05-25",
+                "address": {
+                    "streetAddressLine1": "511",
+                    "streetAddressLine2": null,
+                    "city": "Luenburg county",
+                    "country": "CA",
+                    "stateProvince": "NS",
+                    "zipPostalCode": "B0J 1K0",
+                    "effectiveDate": null
+                },
+                "phone1": "9022982837",
+                "phone2": null,
+                "fax": null,
+                "email": "trevor.seymour@hotmail.com",
+                "job": {
+                    "companyName": "Harry freeman",
+                    "companyPhone": "9026852792",
+                    "supervisorName": "Mark nodding",
+                    "jobTitle": "Production worker",
+                    "payFrequency": null,
+                    "payNext": "2024-11-26",
+                    "startDate": "2024-07-27"
+                },
+                "references": [
+                    {
+                        "firstName": "Sherry",
+                        "lastName": "Seymour",
+                        "phone": "9022770859",
+                        "email": null,
+                        "relationship": "Mother"
+                    },
+                    {
+                        "firstName": "Tammy",
+                        "lastName": "Swinmer",
+                        "phone": "9024144214",
+                        "email": null,
+                        "relationship": "Girlfriend"
+                    }
+                ],
+                "amount": 1500,
+                "balance": null,
+                "requestDate": "2024-12-17T12:04:41.000Z",
+                "ipAddress": "24.201.215.230",
+                "language": "EN",
+                "language_id": 1,
+                "status": "refused",
+                "comments": null,
+                "statusHistory": [
+                    {
+                        "status": "new",
+                        "date": "2024-12-17T12:04:41.000Z",
+                        "comments": null,
+                        "reason": null
+                    },
+                    {
+                        "status": "refused",
+                        "date": "2024-12-17T18:38:11.424Z",
+                        "comments": null,
+                        "reason": "new-bank-account"
+                    }
+                ],
+                "canRenew": false,
+                "renewalUrl": null,
+                "canSolicit": true,
+                "snoozeUntil": null,
+                "revisions": 1,
+                "createdAt": "2024-12-17T17:04:42.000Z",
+                "lastUpdatedAt": "2024-12-17T18:38:12.000Z"
+            }
+        ],
+        "count": 5,
+        "pages": 1,
+        "total_count": 5,
+        "score": {
+            "scoreEnabled": false,
+            "score": null,
+            "reasons": []
+        },
+        "score_requested": true,
+        "billed": true,
+        "cached": false,
+        "created_at": "2025-01-01T08:28:25.890Z",
+        "updated_at": null,
+        "query": {
+            "referenceId": null,
+            "firstName": "trevor",
+            "lastName": "seymour",
+            "dateOfBirth": "1989-05-25",
+            "phone": "19022982837",
+            "email": "trevor.seymour@hotmail.com",
+            "ipAddress": null,
+            "accuracy": 2,
+            "score": true,
+            "track": false
+        }
+    }
+}
